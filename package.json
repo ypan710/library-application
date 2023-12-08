@@ -1,10 +1,8 @@
 {
-  "name": "react-library",
+  "name": "library-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@okta/okta-react": "^6.7.0",
-    "@okta/okta-signin-widget": "^6.3.3",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -12,11 +10,8 @@
     "@types/node": "^16.18.58",
     "@types/react": "^18.2.25",
     "@types/react-dom": "^18.2.11",
-    "@types/react-router-dom": "^5.3.3",
-    "bootstrap-icons": "^1.11.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^5.3.4",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
